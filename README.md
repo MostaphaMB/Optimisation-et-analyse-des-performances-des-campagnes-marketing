@@ -1,5 +1,8 @@
 # 📈 Optimisation et Analyse des Performances des Campagnes Marketing
 
+<img width="1186" height="668" alt="Capture d’écran POWER BI marketing" src="https://github.com/user-attachments/assets/63e72242-a11f-4adb-a836-7ae0465cdc51" />
+
+
 ## 📝 Description du Projet
 Ce projet consiste à mesurer et visualiser l'impact des campagnes marketing sur les ventes et le comportement des clients. En tant que Data Analyst, l'objectif est de transformer un dataset complexe (données démographiques, transactions, campagnes) en un outil décisionnel interactif permettant d'identifier les leviers de croissance et les produits les plus performants.
 
